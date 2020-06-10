@@ -1,4 +1,4 @@
-class Dinosaur {
+class Dinosaur extends Item {
 	// Requirement #4: Complete Dinosaur Class
 
 	final float TRIGGERED_SPEED_MULTIPLIER = 5;
