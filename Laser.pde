@@ -1,4 +1,4 @@
-class Laser {
+class Laser extends Item {
 	// You don't have to change any of these besides calling methods
 	boolean isAlive;
 	float x, y;
