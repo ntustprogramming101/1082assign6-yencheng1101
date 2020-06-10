@@ -1,4 +1,4 @@
-class Robot {
+class Robot extends Item{
 	// Requirement #5: Complete Dinosaur Class
 
 	final int PLAYER_DETECT_RANGE_ROW = 2;
